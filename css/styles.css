@@ -40,6 +40,7 @@ ul {
   line-height: 1.5em;
   letter-spacing: 0.02rem;
   color: inherit;
+  color: #2e2f42;
 }
 
 .nav-link:hover,
