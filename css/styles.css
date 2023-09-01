@@ -59,7 +59,7 @@ ul {
 }
 
 .address-link:hover,
-.address-link:active {
+.address-link:focus {
   color: #404bbf;
 }
 
